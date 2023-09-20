@@ -1,0 +1,197 @@
+li{
+    display:flex;
+    float:left;
+    margin-left: 30px;
+    list-style: none;
+}
+.sidehead{
+    margin-left: 600px;
+}
+
+#HEADER{
+    height:100px;
+    width:100%;
+    background-color: black;
+    color:white;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-radius: 5px;
+    padding-top: 20px;
+
+
+}
+ul{
+    padding-bottom: 10px;
+}
+#sideboe{
+    border:2px solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    padding:5px 5px 5px 5px;
+    color:white;
+
+}
+#sideboe:hover{
+    background-color: aliceblue;
+    color:black;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#icon{
+    padding-top: 12px;
+    font-size:40px;
+}
+#homepagepic1{
+    object-position: top;
+    height:800px;
+    width:100%;
+    object-fit: cover;
+    margin-right: 0%;
+}
+#u{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    background-color: black;
+   
+}
+#u:hover{
+    color:black;
+    background-color: white;
+}
+h3{
+    font-size: 50px;
+}
+p{
+    margin-left:20px;
+    margin-right: 20px;
+   text-align: center;
+    padding:10px 10px 10px 10px;
+    font-size:18px ;
+}
+b{
+    text-align: center;
+}
+#ABOUTUS{
+    background-color:white;
+    color: black;
+}
+a{
+    text-decoration: none;
+   color: white;
+   background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+#OURPRODUCTS{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.col-sm-2{
+   
+    height:400px;
+    padding: 10px 10px 10px 10px;
+}
+img{
+    height:400px;
+    padding-left: 10px;
+}
+#v{
+    text-align: center;
+    font-weight: bold;
+    padding-left: 30px;
+    margin-left: 150px;
+}
+.container-fluid{
+    margin-top: 60px;
+
+}
+#a{
+    padding-top: 50px;
+}
+
+#y{
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#y:hover{
+    background-color: gray;
+    opacity: 0.25;
+ 
+}
+#LOGIN{
+    margin-top: 50px;
+
+}
+#data{
+    height:300px;
+    width:700px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+padding-left:80px;
+padding-top: 70px;
+font-weight: bold;
+}
+#username{
+    border-radius: 5px;
+}
+#password{
+    border-radius: 5px;
+}
+#login{
+    float: left;
+    margin-left: 20px;
+   
+}
+.a{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+.a:hover{
+    background-color: gray;
+    opacity: 0.25;
+   
+}
+.e{
+    height:600px;
+    background-color: rgb(182, 110, 23);
+}
+/*footer*/
+#socialmedia{
+    background-color: black;
+    color:white;
+    height: 300px;
+    width:100%;
+    margin-top:30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 10px;
+
+}
+#details{
+    padding-top: 30px;
+    float:left;
+    margin-left:100px;
+}
+#q{
+    margin-left:20px;
+    padding-top:50px;
+}
+.fa-solid fa-right-to-bracket fa-beat-fade fa-2xl{
+    padding-top:100px;
+}
+#p{
+    margin-left:20px;
+    padding-top:50px;
+}
